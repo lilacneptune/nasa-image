@@ -1,15 +1,15 @@
 body{
     text-align: center;
     padding: 40px;
-    background-color: #3D365C;
-color: #3D365C;
+    background-color: #2A2F4F;
+color: #2A2F4F;
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500px;
   font-style: normal;
 }
 .container{
-    background-color: #8174A0;
+    background-color: #FDE2F3;
     margin: auto;
    padding: 50px;
    border-radius: 15px;
@@ -26,12 +26,12 @@ h1{
   font-weight:300px;
   font-style: normal;
     font-size: 50px;
-    color: #441752;
+    color: #2A2F4F;
 }
 
 input, button{
-    color:#A888B5;
-    background-color: #6b5d8e;
+    color:#2A2F4F;
+    background-color: #917FB3;
     padding: 5px;
     margin-bottom: 10px;
 font-size: 15px;
@@ -40,13 +40,15 @@ border: none;
 
 }
 button{
-    background-color: #8174A0;
+    background-color: #917FB3;
    
-    color: #441752;
+    color: #2A2F4F;
+;
 }
 button:hover{
-    background-color: #A888B5;
-    color: #8174A0;
+    background-color:#2A2F4F;
+;
+    color: #917FB3;
 }
 img, iframe{
     margin-top: 20px;

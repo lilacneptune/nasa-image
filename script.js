@@ -32,7 +32,7 @@ function getnasaimage() {
         }
     })
     .catch(Error => {
-        console.error("error:" , error);
+        console.error("error:" , Error);
     document.getElementById("result").innerHTML = `<p style="color:red"> oops another error </p> `
         
     });
